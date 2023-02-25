@@ -1,0 +1,16 @@
+html {
+    background-color:rgb(39, 33, 124);
+    }
+    div{
+        color:rgb(18, 134, 109);
+        width: 500px;
+        border: 1px solid rgb(7, 1, 1);
+    }
+    body {
+        width: 500px;
+        margin:0 auto;
+        background-color:rgb(205, 224, 29);
+        padding: 20px 20px 20px 20px;
+        border: 5px solid black;
+        text-align: center;
+    }
